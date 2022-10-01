@@ -1,15 +1,15 @@
 ### Problems Set 1
 | Problema   | Codigo Online Judge   | Estado |
 | -- | -- | -- |
-| [Back to High School Physics](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1012 "Back to High School Physics") | 10071 | Sin intentar |
-| [Relational Operator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2113) | 11172  | Sin intentar |
-| [Horror Dash](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899) | 11799 | Sin intentar |
-| [Google is Feeling Lucky](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3166) | 12015 | Sin intentar |
-| [Robot Instructions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947) | 12503 | Sin intentar |
-| [Event Planning](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595) | 11559 | Sin intentar |
-| [Bender B. Rodríguez](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502) | 11507 | Sin intentar |
-| [Triangle Wave](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=429) | 488 | Sin intentar |
-| [In Braille](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3786) | 12364 | Sin intentar |
+| [Back to High School Physics](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1012 "Back to High School Physics") | 10071 | Aceptado |
+| [Relational Operator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2113) | 11172  | Aceptado |
+| [Horror Dash](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899) | 11799 | Aceptado |
+| [Google is Feeling Lucky](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3166) | 12015 | Aceptado |
+| [Robot Instructions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947) | 12503 | Aceptado |
+| [Event Planning](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595) | 11559 | Aceptado |
+| [Bender B. Rodríguez](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502) | 11507 | Aceptado |
+| [Triangle Wave](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=429) | 488 | Aceptado |
+| [In Braille](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3786) | 12364 | Aceptado |
 | [Chess](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=214) | 278 | Sin intentar |
 | [How Many Knights](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637) | 696 | Sin intentar |
 | [Chessboard in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1225) | 10284 | Sin intentar |
