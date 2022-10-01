@@ -7,4 +7,17 @@
 | [Google is Feeling Lucky](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3166) | 12015 | Sin intentar |
 | [Robot Instructions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947) | 12503 | Sin intentar |
 | [Event Planning](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595) | 11559 | Sin intentar |
-| []() | | Sin intentar |
+| [Bender B. Rodríguez](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502) | 11507 | Sin intentar |
+| [Triangle Wave](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=429) | 488 | Sin intentar |
+| [In Braille](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3786) | 12364 | Sin intentar |
+| [Chess](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=214) | 278 | Sin intentar |
+| [How Many Knights](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637) | 696 | Sin intentar |
+| [Chessboard in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1225) | 10284 | Sin intentar |
+| [Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=430) | 489 | Sin intentar |
+| [Minesweeper](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) | 10189 | Sin intentar |
+| [Snakes and Ladders](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2454) | 11459 | Sin intentar |
+| [Booklet Printing](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=578) | 637 | Sin intentar |
+| [Traffic Lights](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=97) | 161 | Sin intentar |
+| [Beat the Spread!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1753) | 10812 | Sin intentar |
+| [Clock Hands](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=520) | 579 | Sin intentar |
+| [Cancer or Scorpio](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3098) | 11947 | Sin intentar |
