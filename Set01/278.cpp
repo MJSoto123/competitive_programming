@@ -1,25 +1,32 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+#define foru(i, a, b) for (long long i = a; i < b; i++)
+#define ford(i, a, b) for (long long i = a; i > b ; i--)
+#define dbg(x) cerr << "\n" << (#x) << " is " << (x) << endl
+#define ll long long
 int main(){
-    int t,r,c;
-    char s;
-    scanf("%d",&t);
+    ios::sync_with_stdio(false);
+    cin.tie(NULL); cout.tie(NULL);
+    int t;
+    cin >> t;
+    char p;
+    int m , n;
     while(t--){
-        scanf("%c %d %d", s, &r, &c);
-        switch (s)
+        cin >> p >> m >> n;
+        switch (p)
         {
-            case 'r':
-                printf("%d\n", min(r,c));
-                break;
-            case 'k':
-                printf("%d\n", (r*c+1)/2);
-                break;
-            case 'Q':
-                printf("%d\n", min(r,c));
-                break;
-            case 'K':
-                printf("%d\n", ((r+1)/2)*((c+1/2)));
-                break;
+        case 'r':
+            cout << min(m,n) << "\n";
+            break;
+        case 'k':
+            cout << int ((m*n+1)/2) << "\n";
+            break;
+        case 'Q':
+            cout << min(m,n) << "\n";
+            break;
+        case 'K':
+            cout << int((m+1)/2)*int((n+1)/2) << "\n"; 
         }
     }
 }
