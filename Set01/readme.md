@@ -11,7 +11,7 @@
 | [Triangle Wave](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=429) | 488 | Aceptado |
 | [In Braille](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3786) | 12364 | Aceptado |
 | [Chess](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=214) | 278 | Aceptado |
-| [How Many Knights](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637) | 696 | Wrong Answer |
+| [How Many Knights](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=637) | 696 | Aceptado |
 | [Chessboard in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1225) | 10284 | Sin intentar |
 | [Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=430) | 489 | Sin intentar |
 | [Minesweeper](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1130) | 10189 | Sin intentar |

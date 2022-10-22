@@ -8,5 +8,8 @@ using namespace std;
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(NULL); cout.tie(NULL);
-    
+    // fore(i,0,515){
+    //     cout << (i&-i)<<"\n";
+    // }
+    cout << (38&-38);
 }
